@@ -1,4 +1,4 @@
-![Arith Banner](https://github.com/user-attachments/assets/19dccb6d-7e26-43ad-9558-2d6c70712818)
+![Arith Banner](https://github.com/user-attachments/assets/112ba9f6-3aca-456c-937a-cce44c692923)
 
 # Arith
 Arith is an AI discord bot powered by WolframAlpha's Short Answers API.
