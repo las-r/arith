@@ -24,6 +24,6 @@ In no event will Arith by Las_r or its creators be liable for any damages arisin
 We reserve the right to update these Terms of Service at any time. Any changes will be reflected in this document, and the date of the last update will be indicated below.
 
 ## 8. Contact Information
-For any questions or concerns, feel free to contact the creator at **@las_r_** on Discord.
+For any questions or concerns, feel free to contact me at **@las_r_** on Discord.
 
 _Last Updated: April 2025_
